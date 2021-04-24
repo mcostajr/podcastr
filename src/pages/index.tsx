@@ -37,7 +37,7 @@ export default function Home({latestEpisodes, allEpisodes}: HomeProps) {
   return (
     <div className={styles.homepage}>
       <Head>
-        <title>Podcast | Home</title>
+        <title>Podcastr | Home</title>
       </Head>
       <section className={styles.latestEpisodes}>
         <h2>Últimos lançamentos</h2>
